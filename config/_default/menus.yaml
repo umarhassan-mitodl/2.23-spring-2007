@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 2864c42f-5da5-49dd-33d0-2157136b4063
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4253e19f-9272-8b86-b5f3-ed21b2c92575
+  name: Course Notes
+  pageRef: /pages/course-notes
+  weight: 20
+- identifier: 12ca450f-55d4-7e6e-a2db-a18cbd90e804
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 210a2124-7e6d-00ba-75a1-061d3f2c158e
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
+- identifier: fe9208dd-f46e-3768-072c-ce2ab11d0987
+  name: Tools
+  pageRef: /pages/tools
+  weight: 50
